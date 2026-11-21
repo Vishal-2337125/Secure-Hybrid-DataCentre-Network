@@ -80,7 +80,3 @@ Some production cloud features cannot be fully simulated in Packet Tracer, inclu
 
 Cisco Packet Tracer, Cisco ASA 5505, Cisco IOS, VLANs (802.1Q), ACLs, NAT/PAT, DHCP, static routing.
 
-## Author
-
-**Vishal Walia**, B.Tech CSE (Cybersecurity), Chandigarh Engineering College, Landran
-GitHub: [Vishal-2337125](https://github.com/Vishal-2337125)
